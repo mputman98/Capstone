@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Exit()
+comment1.params=direction\ leadsTo
+comment1.target=Exit(int,\ Location)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=dirname
+comment3.target=void\ setDirectionName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDirectionName()
+comment5.params=shortName
+comment5.target=void\ setShortDirectionName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getShortDirectionName()
+comment7.params=leadsTo
+comment7.target=void\ setLeadsTo(Location)
+comment8.params=
+comment8.target=Location\ getLeadsTo()
+numComments=9
